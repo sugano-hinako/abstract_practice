@@ -9,8 +9,10 @@ public class Werewolf extends WalkingMonster {
 		this.hp = hp;
 	}
 	//attack()の詳細を決める
-	public void attack() {
+	public void attack(Hero h) {
 		System.out.println(this.name + "は噛みついた！！");
+		System.out.println(h.name + "に10ダメージ与えた");
+		h.hp -= 13;
 	}
 
 }
