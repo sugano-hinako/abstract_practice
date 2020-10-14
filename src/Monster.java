@@ -1,5 +1,6 @@
 
 public abstract class Monster {
+	//フイールド
 	String name;
 	int hp;
 
