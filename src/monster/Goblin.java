@@ -1,4 +1,4 @@
-
+package monster;
 public class Goblin extends WalkingMonster{
 	public Goblin(String name, int hp) {//コンストラクタを定義
 		this.name = name;

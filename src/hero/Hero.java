@@ -1,3 +1,4 @@
+package hero;
 //モンスターに攻撃される勇者クラス
 public class Hero {
 	String name;

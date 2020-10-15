@@ -1,3 +1,5 @@
+package monster;
+
 
 public abstract class WalkingMonster extends Monster {
 	public void run() {
