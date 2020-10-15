@@ -1,3 +1,4 @@
+package main;
 import hero.Hero;
 import monster.Werewolf;
 
