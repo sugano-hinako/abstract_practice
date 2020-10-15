@@ -1,3 +1,5 @@
+import hero.Hero;
+import monster.Werewolf;
 
 public class Main {
 

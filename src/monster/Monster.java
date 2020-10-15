@@ -3,8 +3,8 @@ package monster;
 
 public abstract class Monster {
 	//フイールド
-	String name;
-	int hp;
+	public String name;
+	public int hp;
 
 	//抽象クラスはnewによるインスタンス化ができない
 	//run()を抽象メソッドとして宣言
